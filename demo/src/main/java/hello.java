@@ -1,6 +1,6 @@
 public class hello {
     public static void main(){
         System.out.println("hello");
-        String var = "Do u love me ?";
+        String var = "Do u love me ??";
     }
 }
