@@ -5,3 +5,4 @@ git add word '3'.
 git add word '4'.
 git add word '5'.
 git add changes.
+git add changes 2.
